@@ -3,7 +3,7 @@ package modelo;
 
 /**
  *
- * @author Nehuen
+ * @author Antonacci Matías - Dave Natalia - Zerdá Nehuen
  */
 
 public class ConversorMoneda {

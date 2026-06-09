@@ -3,6 +3,11 @@ package test;
 import modelo.ConversorMoneda;
 import org.junit.*;
 
+/**
+ *
+ * @author Antonacci Matías - Dave Natalia - Zerdá Nehuen
+ */
+
 public class ConversorMonedaTest {
 
     private static ConversorMoneda conversor;
