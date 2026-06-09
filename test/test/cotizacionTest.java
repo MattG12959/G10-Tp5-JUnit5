@@ -13,7 +13,7 @@ import org.junit.Test;
  *
  * @author Antonacci Matías - Dave Natalia - Zerdá Nehuen
  */
-public class cotizacionTest {
+public class CotizacionTest {
     @Before
     public void antesDeCadaPrueba() {
 
